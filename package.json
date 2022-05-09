@@ -1,0 +1,14 @@
+{
+  "name": "datetwitterbot",
+  "version": "1.0.0",
+  "description": "date-twitter-bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Julian Gobbato",
+  "license": "ISC",
+  "dependencies": {
+    "twitter-api-v2": "^1.12.0"
+  }
+}
